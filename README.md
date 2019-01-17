@@ -1,4 +1,4 @@
-# Trait-Identification-using-Machine-Learning
+# Trait-Identification-using-Deep-Learning
 This repository contains the Python 3 code for creating models to identify traits like gender and age from audio files using Deep Learning Models like DNN and LSTMs. This problem is a combination of both- Classification and Regression problems. 
 
 The data used is: Stanford Amazing Grace Dataset
