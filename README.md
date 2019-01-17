@@ -13,17 +13,5 @@ The following is the file description:
 5. SVM_Classification: This file contains the Python code for creating an SVM Classification model used as a baseline for comparisons
 6. SVR_Regression: This file contains the Python code for creating an SVM Regression model used as a baseline for comparisons
 
-Results Obtained: 
-Model | Accuracy(%) |  MAE
-----------------------------
-SVM | 87.1 | 11.52
----------------------------
-DNN 91.45 10.39
-LSTM 94.5 9.34
-Table 1: Validation Results
-Model Accuracy(%) MAE
-SVM 64.2 13.04
-DNN 69.02 12.2
-LSTM 67.4 11.12
-Table 2: Test Results
+The report summarizes the procedure and the results obtained. 
 
