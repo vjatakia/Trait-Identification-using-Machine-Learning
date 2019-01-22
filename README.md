@@ -6,6 +6,7 @@ The data used is: Stanford Amazing Grace Dataset
 Models used: Deep Neural Network(DNN), LSTM
 
 The following is the file description: 
+1. Feature Engineering: This file contains the code for extracting features from the audio files and creating the final usable dataset from the raw audio files. 
 1. dnn_age_modeling.py: This file contains the Python code for creating a DNN Regression model
 2. dnn_gender_modeling.py: This file contains the Python code for creating a DNN Classification model
 3. lstm_age_modeling.py: This file contains the Python code for creating a LSTM Regression model 
